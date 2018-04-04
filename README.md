@@ -2,6 +2,8 @@
 
 ![example](http://cfile2.uf.tistory.com/image/25568B3857AB39A708797F)
 
+* 이미지 출처 : [박상권의 삽질블로그 - Linkify로 TextView의 특정단어 클릭 시 URL 이동시키기](http://gun0912.tistory.com/66)
+
 사진의 하단에 파란색 글씨들 처럼 특정 url로 이동할 수 있는 텍스트가 필요한 경우가 있다. 다수의 TextView를 줄지어 일일히 링크를 다는 방법도 있지만 유동적인 방식으로 링크를 지정할 순 없을까? 하는 궁금증을 해소하기 위해 Linkify에 대한 포스트를 시작한다.
 
 ## HyperLink
