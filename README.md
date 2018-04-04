@@ -10,7 +10,7 @@
 
 ## Linkify Method
 
-![linkify method]()
+![linkify method](https://github.com/Ekutz/Linkify/blob/master/linkify%20method.png?raw=true)
 
 Developers의 문서에서 보면 사진과 같이 5개의 파라미터를 요구한다.
 
@@ -26,7 +26,7 @@ Developers의 문서에서 보면 사진과 같이 5개의 파라미터를 요�
 
 ### 1. 텍스트뷰 생성
 
-![example1]()
+![example1](https://github.com/Ekutz/Linkify/blob/master/example%201.png?raw=true)
 
 사진과 같이 레이아웃 정중앙에 텍스트뷰를 위치 시켰다. 1개의 TextView로 만들어 졌으며 '구글'이라는 글자에만 링크를 걸 예정이다.
 
@@ -73,7 +73,7 @@ Linkify.addLinks(textView, pattern, "https://www.google.com", null, transformFil
 
 ```
 
-![example2]()
+![example2](https://github.com/Ekutz/Linkify/blob/master/example%202.png?raw=true)
 
 구글이라는 글자를 클릭하게 되면 https://www.google.com 으로 이동하게 됩니다!
 
@@ -83,11 +83,11 @@ Linkify.addLinks(textView, pattern, "https://www.google.com", null, transformFil
 
 **app/res/values/color.xml**
 
-![colors]()
+![colors](https://github.com/Ekutz/Linkify/blob/master/colors.png?raw=true)
 
 colorAccent의 색상값을 기존의 분홍색에서 #0000FF(파란색)으로 변경할 경우
 
-![color change]()
+![color change](https://github.com/Ekutz/Linkify/blob/master/color%20change.png?raw=true)
 
 링크의 색이 파란색으로 변한다.
 
